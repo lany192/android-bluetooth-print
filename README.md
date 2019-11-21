@@ -1,0 +1,2 @@
+# android-bluetooth-print
+init
